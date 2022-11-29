@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @uzoma-nwanne
 - 👀 I’m interested in Javascript, CSS, Java, Node.js
-- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on open source Javascript projects
 - 📫 You can email me on uzoma.nwanne@gmail.com  or visit my portfolio on https://uzoma-portofolio.netlify.app/
 
